@@ -1,0 +1,31 @@
+/* Write your code here. */
+.bg-container {
+  background-color: white;
+  width: 1122px;
+  height: 1000px;
+  display: flex;
+  justify-content: center;
+}
+.full-container {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.picture-view {
+  height: 600px;
+  width: 100%;
+  border-radius: 10px;
+}
+.heading {
+  color: black;
+  font-size: 25px;
+}
+.credit {
+  color: #64748b;
+}
+.thumbnail-container {
+  display: flex;
+  justify-content: flex-start;
+}
